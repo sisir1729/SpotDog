@@ -1,2 +1,1 @@
-# SpotDog
-A Front end website
+TinDog Starting Files

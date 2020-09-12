@@ -1,0 +1,61 @@
+#title{background-color: #ff4c68 ;}
+
+  body{font-family:Montserrat;}
+
+h1{font-family: Montserrat-Black;
+  font-weight:bold;font-size:3.5em;
+line-height:1.5;
+color:white;}
+
+ h2{font-family:Montserrat-Bold;}
+
+h3{font-family: Montserrat-Black;font-weight:bold;}
+p{color:grey}
+.containers-fluid{padding: 3% 15% 7%}
+
+.navbar-brand{font-family: Ubuntu;font-size:3rem;font-weight:bold;}
+
+.k{margin : 6% 4% 4% 0;}
+
+.nav-item{padding :0 18px;}
+
+.nav-link{font-size:1.2rem;}
+
+.row{padding-left:16px;padding-top: 4.5rem;}
+
+.sizz{width:60%;transform : rotate(25deg);position:absolute;right:30%}
+@media (max-width:1020px){
+  .sizz{position:static;transform:rotate(0);}
+  #title{text-align: center;}
+  .q{margin:2%}
+}
+
+#features{padding:7% 15%; background-color: #fff;position:relative;z-index:1;}
+.hh{text-align: center;padding:5%}
+.t{color:#ef8172;margin-bottom:1rem;}
+.t:hover{color:#ff4c68;}
+
+#testimonials{
+  color:#fff;
+  text-align:center;
+  background-color: #ef8172;
+
+}
+.oo{border-radius: 100%;width:15%;
+margin:20px;}
+
+#press{background-color: #ef8172;
+text-align:center;padding-bottom: 3%;}
+
+.ll{width:15%;margin:20px 20px 50px;}
+.carousel-item{padding: 7% 15%}
+
+#pricing{padding:100px;text-align: center;}
+.q{padding:3% 2%}
+
+#cta{background-color:#ff4c68;text-align: center;padding:10% 15%}
+.zz{margin:0px 9px 0px;}
+.ass{color:#fff;padding-bottom: 20px}
+
+#footer{background-color:#fff;padding:7% 15%;text-align: center}
+.reddy{margin:2%}
